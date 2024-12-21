@@ -13,3 +13,4 @@ This repository contains links to different sources of computer science and deve
    - [ ] [Master Apple pay in Flutter](https://www.hungrimind.com/articles/flutter-apple-pay)
    - [ ] [Automate Flutter Android app with Github actions and Fastlane](https://canopas.com/automate-flutter-android-app-deployment-with-git-hub-actions-and-fastlane)
    - [ ] [Pushing updates to app without playstore/appstore](https://docs.shorebird.dev/)
+   - [ ] [Collection of flutter animated widgets](https://www.flutterfx.com/docs)
