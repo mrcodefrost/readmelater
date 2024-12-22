@@ -14,3 +14,6 @@ This repository contains links to different sources of computer science and deve
    - [ ] [Automate Flutter Android app with Github actions and Fastlane](https://canopas.com/automate-flutter-android-app-deployment-with-git-hub-actions-and-fastlane)
    - [ ] [Pushing updates to app without playstore/appstore](https://docs.shorebird.dev/)
    - [ ] [Collection of flutter animated widgets](https://www.flutterfx.com/docs)
+  
+3) **Youtube**
+   - [ ] [React 25 Mini projects and Interview prep](https://www.youtube.com/watch?v=l3A9OcUd_Us)
