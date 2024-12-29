@@ -7,6 +7,7 @@ This repository contains links to different sources of computer science and deve
 1) **General**
    - [ ] [Client did not pay?](https://github.com/kleampa/not-paid)
    - [ ] [First principles](https://arpitbhayani.me/first)
+   - [ ] [Serverless with Dart: Building Cloud Functions on GCP](https://dinkomarinac.dev/going-serverless-with-dart-building-cloud-functions-on-gcp)
 
 2) **Flutter**
    - [ ] [Agora voice calling integration in Flutter](https://blog.stackademic.com/agora-voice-calling-with-flutter-easiest-method-step-by-step-guide-2c2e9b8c8c6d)
@@ -15,6 +16,7 @@ This repository contains links to different sources of computer science and deve
    - [ ] [Pushing updates to app without playstore/appstore](https://docs.shorebird.dev/)
    - [ ] [Collection of flutter animated widgets](https://www.flutterfx.com/docs)
    - [ ] [Super state in Flutter Bloc - Crypto Wallet Advanced](https://www.youtube.com/watch?v=xfWXexcMhtY)
+   - [ ] [Implementing Razorpay Subscriptions in Flutter Mobile & Web](https://ashutoshagarwal2014.medium.com/implementing-razorpay-subscriptions-in-flutter-9aebae3b36bd)
   
 3) **Youtube**
    - [ ] [React 25 Mini projects and Interview prep](https://www.youtube.com/watch?v=l3A9OcUd_Us)
