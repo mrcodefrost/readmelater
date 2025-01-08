@@ -29,3 +29,6 @@ This repository contains links to different sources of computer science and deve
   
 5) **Jobs**
    - [ ] [Remote jobs companies](https://github.com/lukasz-madon/awesome-remote-job)
+   - [ ] [Remote hiring ind](https://gist.github.com/idontknowjs/22f3257bed32dd3ab99ff22316e51eb8)
+   - [ ] [Companies providing visa](https://github.com/shubheksha/companies-sponsoring-visas/tree/master)
+   - [ ] [Companies providing visa - globally](https://gist.github.com/callowidealist/d0baa765befa9c6b8e221781eccfd1e2)
