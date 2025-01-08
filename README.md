@@ -26,3 +26,6 @@ This repository contains links to different sources of computer science and deve
   
 4) **Blockchain**
    - [ ] [Blockchain Developer, Solidity](https://www.youtube.com/playlist?list=PL4Rj_WH6yLgWe7TxankiqkrkVKXIwOP42)
+  
+5) **Jobs**
+   - [ ] [Remote jobs companies](https://github.com/lukasz-madon/awesome-remote-job)
