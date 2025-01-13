@@ -18,6 +18,7 @@ This repository contains links to different sources of computer science and deve
    - [ ] [Super state in Flutter Bloc - Crypto Wallet Advanced](https://www.youtube.com/watch?v=xfWXexcMhtY)
    - [ ] [Implementing Razorpay Subscriptions in Flutter Mobile & Web](https://ashutoshagarwal2014.medium.com/implementing-razorpay-subscriptions-in-flutter-9aebae3b36bd)
    - [ ] https://medium.com/flutter/best-practices-for-optimizing-flutter-web-loading-speed-7cc0df14ce5c
+   - [ ] [Only Flutter blog site](https://onlyflutter.com)
   
 3) **Youtube**
    - [ ] [React 25 Mini projects and Interview prep](https://www.youtube.com/watch?v=l3A9OcUd_Us)
