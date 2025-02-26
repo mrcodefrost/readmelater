@@ -34,3 +34,9 @@ This repository contains links to different sources of computer science and deve
    - [ ] [Remote hiring ind](https://gist.github.com/idontknowjs/22f3257bed32dd3ab99ff22316e51eb8)
    - [ ] [Companies providing visa](https://github.com/shubheksha/companies-sponsoring-visas/tree/master)
    - [ ] [Companies providing visa - globally](https://gist.github.com/callowidealist/d0baa765befa9c6b8e221781eccfd1e2)
+
+6) **Designs**
+   - [ ] [Bank App](https://www.figma.com/community/file/1322236579213422290)
+   - [ ] [Doppio Coffee App](https://www.figma.com/design/NflFtwK0DJyJjV5JLXqAjc/Doppio---Coffee-Store-App-%26-Social-Network-UI-Kit-(Community)?node-id=29-307&p=f&t=vEslwtH5ARywfI2K-0)
+   - [ ] [Magic coffee App](https://www.figma.com/design/xTLDMbFqqsERDyKJgJwRBo/Magic-Coffee-App-iOS-UI-Kit-(English-language)-(Community)?node-id=0-1&p=f&t=NM3rr2wduL7Oht07-0)
+   - [ ] [Coffee shop app](https://www.figma.com/design/ioNziE1yStPjf0tMdiNniz/Coffee-Shop-App-Design-UI-Kit-%5BFREE%5D-(Community)?node-id=0-1&p=f&t=PcBYKIceVBPLM7oX-0)
