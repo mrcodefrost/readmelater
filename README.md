@@ -22,6 +22,7 @@ This repository contains links to different sources of computer science and deve
    - [ ] [GraphQL Flutter](https://www.youtube.com/watch?v=uASm5LiWCSk&t=502s)
    - [ ] [Portfolio website with Flutter](https://medium.com/@dmilicic/writing-a-personal-website-in-flutter-web-238cb7e69086)
    - [ ] [Production grade Flutter with NodeJs](https://github.com/mentoc3000/gutlogic)
+   - [ ] [Flutter: Beyond UI](https://www.reddit.com/r/FlutterDev/comments/1bk3p4p/if_youre_tired_of_building_ui_in_flutter/)
   
 3) **Youtube**
    - [ ] [React 25 Mini projects and Interview prep](https://www.youtube.com/watch?v=l3A9OcUd_Us)
