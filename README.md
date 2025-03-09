@@ -20,6 +20,8 @@ This repository contains links to different sources of computer science and deve
    - [ ] https://medium.com/flutter/best-practices-for-optimizing-flutter-web-loading-speed-7cc0df14ce5c
    - [ ] [Only Flutter blog site](https://onlyflutter.com)
    - [ ] [GraphQL Flutter](https://www.youtube.com/watch?v=uASm5LiWCSk&t=502s)
+   - [ ] [Portfolio website with Flutter](https://medium.com/@dmilicic/writing-a-personal-website-in-flutter-web-238cb7e69086)
+   - [ ] [Production grade Flutter with NodeJs](https://github.com/mentoc3000/gutlogic)
   
 3) **Youtube**
    - [ ] [React 25 Mini projects and Interview prep](https://www.youtube.com/watch?v=l3A9OcUd_Us)
