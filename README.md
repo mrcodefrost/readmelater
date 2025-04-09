@@ -43,3 +43,6 @@ This repository contains links to different sources of computer science and deve
    - [ ] [Doppio Coffee App](https://www.figma.com/design/NflFtwK0DJyJjV5JLXqAjc/Doppio---Coffee-Store-App-%26-Social-Network-UI-Kit-(Community)?node-id=29-307&p=f&t=vEslwtH5ARywfI2K-0)
    - [ ] [Magic coffee App](https://www.figma.com/design/xTLDMbFqqsERDyKJgJwRBo/Magic-Coffee-App-iOS-UI-Kit-(English-language)-(Community)?node-id=0-1&p=f&t=NM3rr2wduL7Oht07-0)
    - [ ] [Coffee shop app](https://www.figma.com/design/ioNziE1yStPjf0tMdiNniz/Coffee-Shop-App-Design-UI-Kit-%5BFREE%5D-(Community)?node-id=0-1&p=f&t=PcBYKIceVBPLM7oX-0)
+  
+7) **Interview Prep**
+   - [ ] [Frontend interview practice](https://devtools.tech/)
