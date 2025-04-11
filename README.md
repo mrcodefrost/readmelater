@@ -17,7 +17,7 @@ This repository contains links to different sources of computer science and deve
    - [ ] [Collection of flutter animated widgets](https://www.flutterfx.com/docs)
    - [ ] [Super state in Flutter Bloc - Crypto Wallet Advanced](https://www.youtube.com/watch?v=xfWXexcMhtY)
    - [ ] [Implementing Razorpay Subscriptions in Flutter Mobile & Web](https://ashutoshagarwal2014.medium.com/implementing-razorpay-subscriptions-in-flutter-9aebae3b36bd)
-   - [ ] https://medium.com/flutter/best-practices-for-optimizing-flutter-web-loading-speed-7cc0df14ce5c
+   - [ ] [Flutter web optimization](https://medium.com/flutter/best-practices-for-optimizing-flutter-web-loading-speed-7cc0df14ce5c)
    - [ ] [Only Flutter blog site](https://onlyflutter.com)
    - [ ] [GraphQL Flutter](https://www.youtube.com/watch?v=uASm5LiWCSk&t=502s)
    - [ ] [Portfolio website with Flutter](https://medium.com/@dmilicic/writing-a-personal-website-in-flutter-web-238cb7e69086)
@@ -37,6 +37,12 @@ This repository contains links to different sources of computer science and deve
    - [ ] [Remote hiring ind](https://gist.github.com/idontknowjs/22f3257bed32dd3ab99ff22316e51eb8)
    - [ ] [Companies providing visa](https://github.com/shubheksha/companies-sponsoring-visas/tree/master)
    - [ ] [Companies providing visa - globally](https://gist.github.com/callowidealist/d0baa765befa9c6b8e221781eccfd1e2)
+   - [ ] [Jobossy - Job Hunt tool](jobossy.xyz)
+   - [ ] [Careerflow AI - Job Hunt tool](careerflow.ai)
+   - [ ] [Recro - Job Match](recro.io)
+   - [ ] [Hiring Cafe](hiring.cafe)
+   - [ ] [Flexiple - Job Match](flexiple.com)
+   - [ ] [First2Apply - Job Alerts](first2apply.com)
 
 6) **Designs**
    - [ ] [Bank App](https://www.figma.com/community/file/1322236579213422290)
