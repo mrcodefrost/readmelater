@@ -23,6 +23,9 @@ This repository contains links to different sources of computer science and deve
    - [ ] [Portfolio website with Flutter](https://medium.com/@dmilicic/writing-a-personal-website-in-flutter-web-238cb7e69086)
    - [ ] [Production grade Flutter with NodeJs](https://github.com/mentoc3000/gutlogic)
    - [ ] [Flutter: Beyond UI](https://www.reddit.com/r/FlutterDev/comments/1bk3p4p/if_youre_tired_of_building_ui_in_flutter/)
+   - [ ] [Flutter FX](https://www.flutterfx.com/docs)
+   - [ ] [Device Mockup Generator](https://mockuphone.com/)
+   - [ ] [Flutter Gems](fluttergems.dev)
   
 3) **Youtube**
    - [ ] [React 25 Mini projects and Interview prep](https://www.youtube.com/watch?v=l3A9OcUd_Us)
@@ -52,3 +55,6 @@ This repository contains links to different sources of computer science and deve
   
 7) **Interview Prep**
    - [ ] [Frontend interview practice](https://devtools.tech/)
+
+8) **Web Dev**
+   - [ ] [Frontend Templates](https://flatlogic.com/templates)
