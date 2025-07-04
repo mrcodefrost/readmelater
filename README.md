@@ -8,6 +8,9 @@ This repository contains links to different sources of computer science and deve
    - [ ] [Client did not pay?](https://github.com/kleampa/not-paid)
    - [ ] [First principles](https://arpitbhayani.me/first)
    - [ ] [Serverless with Dart: Building Cloud Functions on GCP](https://dinkomarinac.dev/going-serverless-with-dart-building-cloud-functions-on-gcp)
+   - [ ] [Zepto TechXPress](https://blog.zeptonow.com/)
+   - [ ] [Very good ventures blog](https://verygood.ventures/blog)
+   - [ ] [Myntra Engineering](https://medium.com/myntra-engineering)
 
 2) **Flutter**
    - [ ] [Agora voice calling integration in Flutter](https://blog.stackademic.com/agora-voice-calling-with-flutter-easiest-method-step-by-step-guide-2c2e9b8c8c6d)
@@ -26,6 +29,9 @@ This repository contains links to different sources of computer science and deve
    - [ ] [Flutter FX](https://www.flutterfx.com/docs)
    - [ ] [Device Mockup Generator](https://mockuphone.com/)
    - [ ] [Flutter Gems](fluttergems.dev)
+   - [ ] [Flutter Analytics](https://codewithandrea.com/articles/flutter-app-analytics/)
+   - [ ] [Preserve scroll position](https://medium.com/@varsha.vikshith.tech/preserve-scroll-position-like-a-pro-flutter-dfe5355459e5)
+   - [ ] 
   
 3) **Youtube**
    - [ ] [React 25 Mini projects and Interview prep](https://www.youtube.com/watch?v=l3A9OcUd_Us)
