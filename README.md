@@ -31,7 +31,6 @@ This repository contains links to different sources of computer science and deve
    - [ ] [Flutter Gems](fluttergems.dev)
    - [ ] [Flutter Analytics](https://codewithandrea.com/articles/flutter-app-analytics/)
    - [ ] [Preserve scroll position](https://medium.com/@varsha.vikshith.tech/preserve-scroll-position-like-a-pro-flutter-dfe5355459e5)
-   - [ ] 
   
 3) **Youtube**
    - [ ] [React 25 Mini projects and Interview prep](https://www.youtube.com/watch?v=l3A9OcUd_Us)
