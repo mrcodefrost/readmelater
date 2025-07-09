@@ -45,12 +45,12 @@ This repository contains links to different sources of computer science and deve
    - [ ] [Remote hiring ind](https://gist.github.com/idontknowjs/22f3257bed32dd3ab99ff22316e51eb8)
    - [ ] [Companies providing visa](https://github.com/shubheksha/companies-sponsoring-visas/tree/master)
    - [ ] [Companies providing visa - globally](https://gist.github.com/callowidealist/d0baa765befa9c6b8e221781eccfd1e2)
-   - [ ] [Jobossy - Job Hunt tool](jobossy.xyz)
-   - [ ] [Careerflow AI - Job Hunt tool](careerflow.ai)
-   - [ ] [Recro - Job Match](recro.io)
-   - [ ] [Hiring Cafe](hiring.cafe)
-   - [ ] [Flexiple - Job Match](flexiple.com)
-   - [ ] [First2Apply - Job Alerts](first2apply.com)
+   - [ ] [Jobossy - Job Hunt tool](www.jobossy.xyz)
+   - [ ] [Careerflow AI - Job Hunt tool](www.careerflow.ai)
+   - [ ] [Recro - Job Match](www.recro.io)
+   - [ ] [Hiring Cafe](www.hiring.cafe)
+   - [ ] [Flexiple - Job Match](www.flexiple.com)
+   - [ ] [First2Apply - Job Alerts](www.first2apply.com)
 
 6) **Designs**
    - [ ] [Bank App](https://www.figma.com/community/file/1322236579213422290)
