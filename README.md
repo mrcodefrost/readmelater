@@ -33,6 +33,7 @@ This repository contains links to different sources of computer science and deve
    - [ ] [Preserve scroll position](https://medium.com/@varsha.vikshith.tech/preserve-scroll-position-like-a-pro-flutter-dfe5355459e5)
    - [ ] [Flutter Multi Platform UI](https://medium.com/miles-megabytes/one-codebase-every-screen-how-scapia-built-a-multi-platform-flutter-app-6bf75a3cbbde)
    - [ ] [Rive Animations in Flutter](https://medium.com/miles-megabytes/bringing-apps-to-life-how-we-use-flutter-and-rive-at-scapia-to-build-engaging-experiences-ee6edd03d2fd)
+   - [ ] [Flutter Web navigation with GoRouter](https://gigawave.io/blogs/flutter-web-navigation-gorouter-getx)
   
 3) **Youtube**
    - [ ] [React 25 Mini projects and Interview prep](https://www.youtube.com/watch?v=l3A9OcUd_Us)
