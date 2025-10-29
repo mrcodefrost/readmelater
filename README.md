@@ -34,6 +34,12 @@ This repository contains links to different sources of computer science and deve
    - [ ] [Flutter Multi Platform UI](https://medium.com/miles-megabytes/one-codebase-every-screen-how-scapia-built-a-multi-platform-flutter-app-6bf75a3cbbde)
    - [ ] [Rive Animations in Flutter](https://medium.com/miles-megabytes/bringing-apps-to-life-how-we-use-flutter-and-rive-at-scapia-to-build-engaging-experiences-ee6edd03d2fd)
    - [ ] [Flutter Web navigation with GoRouter](https://gigawave.io/blogs/flutter-web-navigation-gorouter-getx)
+   - [ ] [Build Flutter Apps that survive State Management changes](https://medium.com/@dr.e.rashidi/how-to-build-flutter-apps-that-survive-state-management-changes-a53f3c5163a1)
+   - [ ] [8 Flutter widgets that you should use](https://dcm.dev/blog/2025/10/30/eight-flutter-widgets-not-using-but-should-be/)
+   - [ ] [Flutter moon design system](https://flutter.moon.io/)
+   - [ ] [Motor animation package](https://pub.dev/packages/motor)
+   - [ ] [Dart event loop](https://medium.com/@shivanuj13/darts-magic-show-unveiling-the-event-loop-part-1-of-7-ec375080f4a5)
+   - [ ] [Proposed architecture for Enterprise](https://medium.com/@darasat/proposed-architecture-for-enterprise-application-development-and-deployment-4ec6417523bc)
   
 3) **Youtube**
    - [ ] [React 25 Mini projects and Interview prep](https://www.youtube.com/watch?v=l3A9OcUd_Us)
@@ -54,6 +60,7 @@ This repository contains links to different sources of computer science and deve
    - [ ] [Hiring Cafe](www.hiring.cafe)
    - [ ] [Flexiple - Job Match](www.flexiple.com)
    - [ ] [First2Apply - Job Alerts](www.first2apply.com)
+   - [ ] [Apex careers](https://apex.careers/)
 
 6) **Designs**
    - [ ] [Bank App](https://www.figma.com/community/file/1322236579213422290)
@@ -66,3 +73,5 @@ This repository contains links to different sources of computer science and deve
 
 8) **Web Dev**
    - [ ] [Frontend Templates](https://flatlogic.com/templates)
+   - [ ] [Anime JS](https://animejs.com/)
+   - [ ] [React Native directory](https://reactnative.directory/)
