@@ -11,6 +11,9 @@ This repository contains links to different sources of computer science and deve
    - [ ] [Zepto TechXPress](https://blog.zeptonow.com/)
    - [ ] [Very good ventures blog](https://verygood.ventures/blog)
    - [ ] [Myntra Engineering](https://medium.com/myntra-engineering)
+   - [ ] [DSA problem solving](https://docs.google.com/document/u/0/d/1rR3R6J55ha_aWRDO44O_QYsqxoKgDfs2S68A_93Vxy4/mobilebasic)
+   - [ ] [Cohort Interview questions](https://even-vibraphone-a5a.notion.site/Interview-Ready-Questions-For-Cohort-16485a1d0bee80d1a1def4d05cfeed7d)
+   - [ ] 
 
 2) **Flutter**
    - [ ] [Agora voice calling integration in Flutter](https://blog.stackademic.com/agora-voice-calling-with-flutter-easiest-method-step-by-step-guide-2c2e9b8c8c6d)
@@ -40,7 +43,7 @@ This repository contains links to different sources of computer science and deve
    - [ ] [Motor animation package](https://pub.dev/packages/motor)
    - [ ] [Dart event loop](https://medium.com/@shivanuj13/darts-magic-show-unveiling-the-event-loop-part-1-of-7-ec375080f4a5)
    - [ ] [Proposed architecture for Enterprise](https://medium.com/@darasat/proposed-architecture-for-enterprise-application-development-and-deployment-4ec6417523bc)
-   - [ ] [Inbox to your web application](https://pub.dev/packages/flutter_novu)
+   - [ ] [Inbox to your flutter web application](https://pub.dev/packages/flutter_novu)
   
 3) **Youtube**
    - [ ] [React 25 Mini projects and Interview prep](https://www.youtube.com/watch?v=l3A9OcUd_Us)
@@ -62,6 +65,7 @@ This repository contains links to different sources of computer science and deve
    - [ ] [Flexiple - Job Match](www.flexiple.com)
    - [ ] [First2Apply - Job Alerts](www.first2apply.com)
    - [ ] [Apex careers](https://apex.careers/)
+   - [ ] [Developers India Tech job wiki](https://wiki.developersindia.in/community-guides/where-to-find-tech-jobs#remote)
 
 6) **Designs**
    - [ ] [Bank App](https://www.figma.com/community/file/1322236579213422290)
