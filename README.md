@@ -13,7 +13,6 @@ This repository contains links to different sources of computer science and deve
    - [ ] [Myntra Engineering](https://medium.com/myntra-engineering)
    - [ ] [DSA problem solving](https://docs.google.com/document/u/0/d/1rR3R6J55ha_aWRDO44O_QYsqxoKgDfs2S68A_93Vxy4/mobilebasic)
    - [ ] [Cohort Interview questions](https://even-vibraphone-a5a.notion.site/Interview-Ready-Questions-For-Cohort-16485a1d0bee80d1a1def4d05cfeed7d)
-   - [ ] 
 
 2) **Flutter**
    - [ ] [Agora voice calling integration in Flutter](https://blog.stackademic.com/agora-voice-calling-with-flutter-easiest-method-step-by-step-guide-2c2e9b8c8c6d)
