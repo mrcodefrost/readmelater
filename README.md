@@ -40,6 +40,7 @@ This repository contains links to different sources of computer science and deve
    - [ ] [Motor animation package](https://pub.dev/packages/motor)
    - [ ] [Dart event loop](https://medium.com/@shivanuj13/darts-magic-show-unveiling-the-event-loop-part-1-of-7-ec375080f4a5)
    - [ ] [Proposed architecture for Enterprise](https://medium.com/@darasat/proposed-architecture-for-enterprise-application-development-and-deployment-4ec6417523bc)
+   - [ ] [Inbox to your web application](https://pub.dev/packages/flutter_novu)
   
 3) **Youtube**
    - [ ] [React 25 Mini projects and Interview prep](https://www.youtube.com/watch?v=l3A9OcUd_Us)
