@@ -13,6 +13,7 @@ This repository contains links to different sources of computer science and deve
    - [ ] [Myntra Engineering](https://medium.com/myntra-engineering)
    - [ ] [DSA problem solving](https://docs.google.com/document/u/0/d/1rR3R6J55ha_aWRDO44O_QYsqxoKgDfs2S68A_93Vxy4/mobilebasic)
    - [ ] [Cohort Interview questions](https://even-vibraphone-a5a.notion.site/Interview-Ready-Questions-For-Cohort-16485a1d0bee80d1a1def4d05cfeed7d)
+   - [ ] [UI Testing by Maestro](https://maestro.dev/)
 
 2) **Flutter**
    - [ ] [Agora voice calling integration in Flutter](https://blog.stackademic.com/agora-voice-calling-with-flutter-easiest-method-step-by-step-guide-2c2e9b8c8c6d)
@@ -66,6 +67,7 @@ This repository contains links to different sources of computer science and deve
    - [ ] [First2Apply - Job Alerts](https://www.first2apply.com)
    - [ ] [Apex careers](https://apex.careers/)
    - [ ] [Developers India Tech job wiki](https://wiki.developersindia.in/community-guides/where-to-find-tech-jobs#remote)
+   - [ ] [Tech Abroad](https://techabroad.io/)
 
 6) **Designs**
    - [ ] [Bank App](https://www.figma.com/community/file/1322236579213422290)
@@ -80,3 +82,4 @@ This repository contains links to different sources of computer science and deve
    - [ ] [Frontend Templates](https://flatlogic.com/templates)
    - [ ] [Anime JS](https://animejs.com/)
    - [ ] [React Native directory](https://reactnative.directory/)
+   - [ ] [MedusaJS - Open source commerce platfrom](https://medusajs.com/)
