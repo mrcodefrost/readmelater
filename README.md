@@ -78,8 +78,24 @@ This repository contains links to different sources of computer science and deve
 7) **Interview Prep**
    - [ ] [Frontend interview practice](https://devtools.tech/)
 
-8) **Web Dev**
+8) **Frontend Dev**
    - [ ] [Frontend Templates](https://flatlogic.com/templates)
    - [ ] [Anime JS](https://animejs.com/)
    - [ ] [React Native directory](https://reactnative.directory/)
    - [ ] [MedusaJS - Open source commerce platfrom](https://medusajs.com/)
+   - [ ] [React Bits](https://reactbits.dev)
+   - [ ] [Cursify](https://cursify.vercel.app)
+   - [ ] [Shadcnspace](https://shadcnspace.com)
+   - [ ] [Tailark](https://tailark.com)
+   - [ ] [Shadcnblocks](https://shadcnblocks.com)
+   - [ ] [Blocks so](https://blocks.so)
+   - [ ] [Intent UI](https://intentui.com/)
+   - [ ] [Kibo UI](https://kibo-ui.com)
+   - [ ] [8bit cn](https://8bitcn.com)
+   - [ ] [Aceternity UI](https://ui.aceternity.com)
+   - [ ] [Fancy components](https://fancycomponents.dev)
+   - [ ] [Sera UI](https://seraui.com)
+   - [ ] [Retro UI](https://retroui.dev)
+   - [ ] [Kokonut UI](https://kokonutui.com)
+   - [ ] [Hexta UI](https://hextaui.com)
+   - [ ] [21st dev component collection](https://21st.dev)
