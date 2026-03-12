@@ -77,6 +77,7 @@ This repository contains links to different sources of computer science and deve
   
 7) **Interview Prep**
    - [ ] [Frontend interview practice](https://devtools.tech/)
+   - [ ] [Frontscope - Learn all frontend](https://frontscope.dev/)
 
 8) **Frontend Dev**
    - [ ] [Frontend Templates](https://flatlogic.com/templates)
