@@ -45,6 +45,12 @@ This repository contains links to different sources of computer science and deve
    - [ ] [Proposed architecture for Enterprise](https://medium.com/@darasat/proposed-architecture-for-enterprise-application-development-and-deployment-4ec6417523bc)
    - [ ] [Inbox to your flutter web application](https://pub.dev/packages/flutter_novu)
    - [ ] [Screen launch by notification plugin](https://pub.dev/packages/screen_launch_by_notfication)
+   - [ ] [Flutter articles by Simra](https://medium.com/@simra.cse)
+   - [ ] [Monitor and Analyze moble app revenue](https://admob.pro/en)
+   - [ ] [Stac - Flutter SDUI platform](https://stac.dev/)
+   - [ ] [Skills - CLI that installs AI agent skills from your Dart and Flutter](https://pub.dev/packages/skills)
+   - [ ] [Dart & Flutter MCP](https://docs.flutter.dev/ai/mcp-server)
+   - [ ] [Curving reality - Flutter design lib](https://curvingreality.github.io/flutter-library/#/README)
   
 3) **Youtube**
    - [ ] [React 25 Mini projects and Interview prep](https://www.youtube.com/watch?v=l3A9OcUd_Us)
@@ -74,6 +80,7 @@ This repository contains links to different sources of computer science and deve
    - [ ] [Doppio Coffee App](https://www.figma.com/design/NflFtwK0DJyJjV5JLXqAjc/Doppio---Coffee-Store-App-%26-Social-Network-UI-Kit-(Community)?node-id=29-307&p=f&t=vEslwtH5ARywfI2K-0)
    - [ ] [Magic coffee App](https://www.figma.com/design/xTLDMbFqqsERDyKJgJwRBo/Magic-Coffee-App-iOS-UI-Kit-(English-language)-(Community)?node-id=0-1&p=f&t=NM3rr2wduL7Oht07-0)
    - [ ] [Coffee shop app](https://www.figma.com/design/ioNziE1yStPjf0tMdiNniz/Coffee-Shop-App-Design-UI-Kit-%5BFREE%5D-(Community)?node-id=0-1&p=f&t=PcBYKIceVBPLM7oX-0)
+   - [ ] [Retro Screenshots Maker](https://neo.retroui.dev/)
   
 7) **Interview Prep**
    - [ ] [Frontend interview practice](https://devtools.tech/)
@@ -100,3 +107,5 @@ This repository contains links to different sources of computer science and deve
    - [ ] [Kokonut UI](https://kokonutui.com)
    - [ ] [Hexta UI](https://hextaui.com)
    - [ ] [21st dev component collection](https://21st.dev)
+   - [ ] [Scroll scramble section](https://morphin.dev/components/scroll-scramble-section)
+   - [ ] [Morphin dev](https://morphin.dev/)
