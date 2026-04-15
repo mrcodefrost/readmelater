@@ -51,6 +51,7 @@ This repository contains links to different sources of computer science and deve
    - [ ] [Skills - CLI that installs AI agent skills from your Dart and Flutter](https://pub.dev/packages/skills)
    - [ ] [Dart & Flutter MCP](https://docs.flutter.dev/ai/mcp-server)
    - [ ] [Curving reality - Flutter design lib](https://curvingreality.github.io/flutter-library/#/README)
+   - [ ] [Gooey - Metaball effect package](https://pub.dev/packages/gooey)
   
 3) **Youtube**
    - [ ] [React 25 Mini projects and Interview prep](https://www.youtube.com/watch?v=l3A9OcUd_Us)
