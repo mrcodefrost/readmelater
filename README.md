@@ -82,6 +82,7 @@ This repository contains links to different sources of computer science and deve
    - [ ] [Magic coffee App](https://www.figma.com/design/xTLDMbFqqsERDyKJgJwRBo/Magic-Coffee-App-iOS-UI-Kit-(English-language)-(Community)?node-id=0-1&p=f&t=NM3rr2wduL7Oht07-0)
    - [ ] [Coffee shop app](https://www.figma.com/design/ioNziE1yStPjf0tMdiNniz/Coffee-Shop-App-Design-UI-Kit-%5BFREE%5D-(Community)?node-id=0-1&p=f&t=PcBYKIceVBPLM7oX-0)
    - [ ] [Retro Screenshots Maker](https://neo.retroui.dev/)
+   
   
 7) **Interview Prep**
    - [ ] [Frontend interview practice](https://devtools.tech/)
@@ -111,6 +112,7 @@ This repository contains links to different sources of computer science and deve
    - [ ] [Scroll scramble section](https://morphin.dev/components/scroll-scramble-section)
    - [ ] [Morphin dev](https://morphin.dev/)
    - [ ] [Mathematical Loaders](https://paidax01.github.io/math-curve-loaders/)
+   - [ ] [Animated AI Backgrounds](https://motionsites.ai/backgrounds)
 
 9) **AI**
    - [ ] [Emil Kowal Design Skill](https://emilkowal.ski/skill)
