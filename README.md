@@ -111,3 +111,6 @@ This repository contains links to different sources of computer science and deve
    - [ ] [Scroll scramble section](https://morphin.dev/components/scroll-scramble-section)
    - [ ] [Morphin dev](https://morphin.dev/)
    - [ ] [Mathematical Loaders](https://paidax01.github.io/math-curve-loaders/)
+
+9) **AI**
+   - [ ] [Emil Kowal Design Skill](https://emilkowal.ski/skill)
