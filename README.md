@@ -113,6 +113,7 @@ This repository contains links to different sources of computer science and deve
    - [ ] [Morphin dev](https://morphin.dev/)
    - [ ] [Mathematical Loaders](https://paidax01.github.io/math-curve-loaders/)
    - [ ] [Animated AI Backgrounds](https://motionsites.ai/backgrounds)
+   - [ ] [Animata Design Components](https://animata.design/docs)
 
 9) **AI**
    - [ ] [Emil Kowal Design Skill](https://emilkowal.ski/skill)
