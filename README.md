@@ -14,6 +14,7 @@ This repository contains links to different sources of computer science and deve
    - [ ] [DSA problem solving](https://docs.google.com/document/u/0/d/1rR3R6J55ha_aWRDO44O_QYsqxoKgDfs2S68A_93Vxy4/mobilebasic)
    - [ ] [Cohort Interview questions](https://even-vibraphone-a5a.notion.site/Interview-Ready-Questions-For-Cohort-16485a1d0bee80d1a1def4d05cfeed7d)
    - [ ] [UI Testing by Maestro](https://maestro.dev/)
+   - [ ] [Startup Ideas](https://startups.rip/)
 
 2) **Flutter**
    - [ ] [Agora voice calling integration in Flutter](https://blog.stackademic.com/agora-voice-calling-with-flutter-easiest-method-step-by-step-guide-2c2e9b8c8c6d)
@@ -82,6 +83,8 @@ This repository contains links to different sources of computer science and deve
    - [ ] [Magic coffee App](https://www.figma.com/design/xTLDMbFqqsERDyKJgJwRBo/Magic-Coffee-App-iOS-UI-Kit-(English-language)-(Community)?node-id=0-1&p=f&t=NM3rr2wduL7Oht07-0)
    - [ ] [Coffee shop app](https://www.figma.com/design/ioNziE1yStPjf0tMdiNniz/Coffee-Shop-App-Design-UI-Kit-%5BFREE%5D-(Community)?node-id=0-1&p=f&t=PcBYKIceVBPLM7oX-0)
    - [ ] [Retro Screenshots Maker](https://neo.retroui.dev/)
+   - [ ] [Create Avatars with Avatune](https://www.avatune.dev/)
+   - [ ] [Mobbin UI - Design Inspirations](https://mobbin.com/)
    
   
 7) **Interview Prep**
@@ -114,6 +117,16 @@ This repository contains links to different sources of computer science and deve
    - [ ] [Mathematical Loaders](https://paidax01.github.io/math-curve-loaders/)
    - [ ] [Animated AI Backgrounds](https://motionsites.ai/backgrounds)
    - [ ] [Animata Design Components](https://animata.design/docs)
+   - [ ] [Robot Toast](https://robot-toast.vercel.app/)
+   - [ ] [Boneyard Skeleton](https://github.com/0xGF/boneyard)
 
 9) **AI**
    - [ ] [Emil Kowal Design Skill](https://emilkowal.ski/skill)
+   - [ ] [Get Design MD](https://getdesign.md/)
+
+10) **Third Party Integrations**
+   - [ ] [Keplars Email Infrastucture - Resend alternative](https://keplars.com/)
+
+11) **Tools**
+   - [ ] [Favicon Generator](https://realfavicongenerator.net/)
+   - [ ] [Backgrond Remover](https://www.craiyon.com/en/background-remover)
